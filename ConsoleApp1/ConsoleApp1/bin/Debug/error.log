@@ -1,0 +1,137 @@
+29/02/2024 02:05:16: Erro ao inserir dados do computador: database is locked
+database is locked
+29/02/2024 02:06:08: Erro ao inserir dados do computador: constraint failed
+UNIQUE constraint failed: Computers.HostName
+29/02/2024 02:18:05: Erro ao inserir dados do computador: constraint failed
+UNIQUE constraint failed: Computers.HostName 
+29/02/2024 02:19:30: Erro ao inserir dados do computador: constraint failed
+UNIQUE constraint failed: Computers.HostName  - query INSERT INTO Computers (HostName, UserName, IPAddress, MACAddress, TotalMemory, TotalStorage, ProcessorModel, OperatingSystem, ComputerBrand, ComputerModel) VALUES (@HostName, @UserName, @IPAddress, @MACAddress, @TotalMemory, @TotalStorage, @ProcessorModel, @OperatingSystem, @ComputerBrand, @ComputerModel)
+29/02/2024 02:22:37: Erro ao inserir dados do computador: constraint failed
+UNIQUE constraint failed: Computers.HostName  - query HostName: LAPTOP-ERI
+UserName: erive
+IPAddress: 192.168.1.22
+MACAddress: D4:D2:52:82:A3:4D
+TotalMemory: 15,85 GB
+TotalStorage: 1.153,37 GB
+ProcessorModel: Intel(R) Core(TM) i5-8300H CPU @ 2.30GHz
+OperatingSystem: Microsoft Windows 11 Home Single Language
+ComputerBrand: Acer
+ComputerModel: Nitro AN515-52
+
+29/02/2024 02:24:04: Erro ao inserir dados do computador: constraint failed
+UNIQUE constraint failed: Computers.HostName  - query: 
+ HostName: LAPTOP-ERI
+UserName: erive
+IPAddress: 192.168.1.22
+MACAddress: D4:D2:52:82:A3:4D
+TotalMemory: 15,85 GB
+TotalStorage: 1.153,37 GB
+ProcessorModel: Intel(R) Core(TM) i5-8300H CPU @ 2.30GHz
+OperatingSystem: Microsoft Windows 11 Home Single Language
+ComputerBrand: Acer
+ComputerModel: Nitro AN515-52
+
+29/02/2024 02:24:21: Erro ao inserir dados do computador: constraint failed
+UNIQUE constraint failed: Computers.HostName  - query: 
+HostName: LAPTOP-ERI
+UserName: erive
+IPAddress: 192.168.1.22
+MACAddress: D4:D2:52:82:A3:4D
+TotalMemory: 15,85 GB
+TotalStorage: 1.153,37 GB
+ProcessorModel: Intel(R) Core(TM) i5-8300H CPU @ 2.30GHz
+OperatingSystem: Microsoft Windows 11 Home Single Language
+ComputerBrand: Acer
+ComputerModel: Nitro AN515-52
+
+29/02/2024 02:24:53: Erro ao inserir dados do computador: database is locked
+database is locked  - query: 
+HostName: LAPTOP-ERI
+UserName: erive
+IPAddress: 192.168.1.22
+MACAddress: D4:D2:52:82:A3:4D
+TotalMemory: 15,85 GB
+TotalStorage: 1.153,37 GB
+ProcessorModel: Intel(R) Core(TM) i5-8300H CPU @ 2.30GHz
+OperatingSystem: Microsoft Windows 11 Home Single Language
+ComputerBrand: Acer
+ComputerModel: Nitro AN515-52
+
+29/02/2024 02:25:21: Erro ao inserir dados do computador: database is locked
+database is locked  - query: 
+HostName: LAPTOP-ERI
+UserName: erive
+IPAddress: 192.168.1.22
+MACAddress: D4:D2:52:82:A3:4D
+TotalMemory: 15,85 GB
+TotalStorage: 1.153,37 GB
+ProcessorModel: Intel(R) Core(TM) i5-8300H CPU @ 2.30GHz
+OperatingSystem: Microsoft Windows 11 Home Single Language
+ComputerBrand: Acer
+ComputerModel: Nitro AN515-52
+
+29/02/2024 02:26:03: Erro ao inserir dados do computador: database is locked
+database is locked  - query: 
+HostName: LAPTOP-ERI
+UserName: erive
+IPAddress: 192.168.1.22
+MACAddress: D4:D2:52:82:A3:4D
+TotalMemory: 15,85 GB
+TotalStorage: 1.153,37 GB
+ProcessorModel: Intel(R) Core(TM) i5-8300H CPU @ 2.30GHz
+OperatingSystem: Microsoft Windows 11 Home Single Language
+ComputerBrand: Acer
+ComputerModel: Nitro AN515-52
+
+29/02/2024 02:28:37: Erro ao inserir dados do computador: database is locked
+database is locked  - query: 
+HostName: LAPTOP-ERI
+UserName: erive
+IPAddress: 192.168.1.22
+MACAddress: D4:D2:52:82:A3:4D
+TotalMemory: 15,85 GB
+TotalStorage: 1.153,37 GB
+ProcessorModel: Intel(R) Core(TM) i5-8300H CPU @ 2.30GHz
+OperatingSystem: Microsoft Windows 11 Home Single Language
+ComputerBrand: Acer
+ComputerModel: Nitro AN515-52
+
+29/02/2024 02:29:08: Erro ao inserir dados do computador: constraint failed
+UNIQUE constraint failed: Computers.HostName  - query: 
+HostName: LAPTOP-ERI
+UserName: erive
+IPAddress: 192.168.1.22
+MACAddress: D4:D2:52:82:A3:4D
+TotalMemory: 15,85 GB
+TotalStorage: 1.153,37 GB
+ProcessorModel: Intel(R) Core(TM) i5-8300H CPU @ 2.30GHz
+OperatingSystem: Microsoft Windows 11 Home Single Language
+ComputerBrand: Acer
+ComputerModel: Nitro AN515-52
+
+29/02/2024 02:34:44: Erro ao inserir dados do computador: constraint failed
+UNIQUE constraint failed: Computers.HostName  - query: 
+HostName: LAPTOP-ERI
+UserName: erive
+IPAddress: 192.168.1.22
+MACAddress: D4:D2:52:82:A3:4D
+TotalMemory: 15,85 GB
+TotalStorage: 1.153,37 GB
+ProcessorModel: Intel(R) Core(TM) i5-8300H CPU @ 2.30GHz
+OperatingSystem: Microsoft Windows 11 Home Single Language
+ComputerBrand: Acer
+ComputerModel: Nitro AN515-52
+
+29/02/2024 02:35:12: Erro ao inserir dados do computador: database is locked
+database is locked  - query: 
+HostName: LAPTOP-ERI
+UserName: erive
+IPAddress: 192.168.1.22
+MACAddress: D4:D2:52:82:A3:4D
+TotalMemory: 15,85 GB
+TotalStorage: 1.153,37 GB
+ProcessorModel: Intel(R) Core(TM) i5-8300H CPU @ 2.30GHz
+OperatingSystem: Microsoft Windows 11 Home Single Language
+ComputerBrand: Acer
+ComputerModel: Nitro AN515-52
+
